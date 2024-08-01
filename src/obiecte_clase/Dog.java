@@ -37,5 +37,17 @@ public class Dog {
         } else {return false;}
 
         }
+
+        public void apport(){
+            System.out.println("Aport");
+        }
+
+        public String displayInfo(){
+            return"Rasa: " + this.rasa + ", Varsta: " + this.varsta + ", Nume: " + this.name;
+        }
+
+        public static void bark(){
+            System.out.println("Ham ham!");
+        }
     }
 
