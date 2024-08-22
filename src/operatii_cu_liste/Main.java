@@ -10,7 +10,7 @@ import java.util.Scanner;
  * 5. Sa se verifice daca numarul 9 este prezent in array, daca este prezent sa se afiseze un mesaj
  * 6. Se citeste de la tastatura un numar intreg n, sa se verifice daca acest numar este prezent in array
  * 7. Se citeste de la tastatura un nr intreg n, care va fi dimensiunea unui array, elementele array-ului se vor citi de la tastatura. Sa se afiseze elementele array-ului intr-o singura linie, separate prin virgula
- **/
+  **/
 public class Main {
     public static void main(String[] args) {
 
